@@ -28,6 +28,4 @@ All examples are made to work cross browser (Chrome, Firefox, Safari, IE10+, Edg
    As seen in use here: http://www.north2.net/about-us.html  
    The json data is for example only  
    
-6. <b>WebGL</b>  
-   
 
