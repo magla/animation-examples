@@ -22,9 +22,10 @@ All examples are made to work cross browser (Chrome, Firefox, Safari, IE10+, Edg
    Image slider with a clip/translate effect  
    Technologies used: SASS, GSAP, GSAP CSS Plugin, and jQuery  
      
-5. <b>Canvas</b>
+5. <b>Canvas</b>  
    PreloadJS example of loading images in canvas the fast way  
-   EaselJS library for the canvas manipulation    
+   EaselJS library for the canvas manipulation  
+   As seen in use here: http://www.north2.net/about-us.html
    
 6. <b>WebGL</b>  
    
