@@ -11,8 +11,12 @@ All examples are made to work cross browser (Chrome, Firefox, Safari, IE10+, Edg
      
 3. <b>SVG</b>  
    Clip reveal animation with images on hover  
-   As seen here: http://codepen.io/anon/pen/ygQdjM  
+   As seen here: http://codepen.io/magda_ena/pen/ygQdjM  
    Technologies used: GSAP  
+   
+   SVG path animation
+   As seen here: https://codepen.io/magda_ena/pen/mRmOxy
+   Technologies used: jQuery 3.1.1
      
 4. <b>Slider</b>  
    Image slider with a clip/translate effect  
