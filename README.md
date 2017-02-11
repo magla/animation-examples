@@ -25,7 +25,8 @@ All examples are made to work cross browser (Chrome, Firefox, Safari, IE10+, Edg
 5. <b>Canvas</b>  
    PreloadJS example of loading images in canvas the fast way  
    EaselJS library for the canvas manipulation  
-   As seen in use here: http://www.north2.net/about-us.html
+   As seen in use here: http://www.north2.net/about-us.html  
+   Mind you that the images cannot be loaded cross origin, and the json data is for example only  
    
 6. <b>WebGL</b>  
    
