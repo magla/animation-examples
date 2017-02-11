@@ -15,12 +15,9 @@ function Slider () {
         var $first = $(item).first();
         var $last = $(item).last();
 
-        var $tFirst = $first.clone();
-        var $tLast = $last.clone();
-
         if (!$last.is(':empty')) {
-            $first.replaceWith($tLast);
-            $last.replaceWith($tFirst);
+            $first.replaceWith($last.clone());
+            $last.replaceWith($first.clone());
         }
         
         $(item).last().addClass('active');
