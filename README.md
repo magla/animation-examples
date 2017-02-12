@@ -1,6 +1,7 @@
 # Animation examples
-Various examples of web animations.
-All examples are made to work cross browser (Chrome, Firefox, Safari, IE10+, Edge).
+Various examples of web animations.  
+All examples are made to work cross browser (Chrome, Firefox, Safari, IE10+, Edge), either in the original form, or with a fallback.
+The exeption is the Bodymovin example, because of an unperfect export of the animation from AE, which is a common occurence if the animation that has to be generated is nontrivial.   
 
 1. <b>Spritesheet</b>  
    Technologies used: CSS3, translate3d and animation with steps functions   
