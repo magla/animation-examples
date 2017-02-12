@@ -4,6 +4,7 @@ All examples are made to work cross browser (Chrome, Firefox, Safari, IE10+, Edg
 
 1. <b>Spritesheet</b>  
    Technologies used: CSS3, translate3d and animation with steps functions   
+   Preview: http://htmlpreview.github.io/?https://github.com/magla/animation-examples/blob/master/spritesheet/index.html
    
 2. <b>Bodymovin</b>  
    Exported animation from After Effects rendered as SVG  
